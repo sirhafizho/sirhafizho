@@ -1,6 +1,6 @@
-##Yo yo yo, Hafiz here!
+<h1>Yo yo yo, Hafiz here!<h1/>
 
-###I'm a student at University Of Malaya
+I'm a student at University Of Malaya
 
  - 🔭 I'm currently studying in Software Engineering for my degree
  - 🌱 I'm trying to become a full stack developer *(maybe one day, Hafiz whispers)*
