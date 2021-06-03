@@ -20,4 +20,4 @@
 <br>
 <br>
 
-<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirhafizho&hide=stars&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirhaafizho)](https://github.com/anuraghazra/github-readme-stats)</span?
+<span>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirhafizho&hide=stars&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirhafizho)](https://github.com/anuraghazra/github-readme-stats)</span>
