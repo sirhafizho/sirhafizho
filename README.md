@@ -16,6 +16,8 @@
 <br>
 <h3><strong>Frameworks:</strong></h3>
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></span>
+
+<br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirhafizho&hide=issues,stars&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirhafizho&hide=stars&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
