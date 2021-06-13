@@ -6,6 +6,7 @@
  - 🌱 I'm trying to become a full stack developer *(maybe one day, Hafiz whispers)*
  - 😄 I'm also a gamer, I play CSGO, Dota 2, PUBG Mobile....
  - 📚 I'm very passionate in learning and trying to develop myself to be better :D
+ -  I am also super passionate about F1
 
 
 <h3><strong>Languages:</strong></h3>
