@@ -10,7 +10,7 @@ A software engineer who loves clean architecture and is an obsessed F1 fan — c
 
 ### The journey so far
 
-- Graduated from **Universiti Malaya** — B.Cs. Software Engineering, **First Class Honours with Distinction** (CGPA 3.89)
+- Graduated from **Universiti Malaya** — B.Cs. Software Engineering, **First Class Honours with Distinction**
 - Won **Best Final Year Project** (Software Engineering Dept) + **Dean's List x6** + **University Book Prize**
 - Started at a startup, led front-end on a government portal, got contracted to Mercedes-Benz, then converted to permanent
 - Now building microservices and internal platforms at **Mercedes-Benz Tech** — working hybrid with teams in Ulm & Stuttgart
