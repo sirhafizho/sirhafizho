@@ -63,6 +63,8 @@ A software engineer who loves clean architecture and is an obsessed F1 fan — c
 ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-%231904DA.svg?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Black Duck](https://img.shields.io/badge/Black_Duck-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
 
 **AI-Powered Development**
 
