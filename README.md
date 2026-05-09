@@ -1,51 +1,77 @@
 ![Muhammad Hafiz bin Baharudin](https://github.com/sirhafizho/sirhafizho/assets/56126244/d59a15ea-0ea5-4f10-9087-704a11b71bab)
 
-## 👋 &nbsp;Hey there! I'm Hafiz you can call me Fiz
+# Hey there, I'm Hafiz
 
-### 👨🏻‍💻 &nbsp;About Me
+**Full Stack Developer @ Mercedes-Benz Malaysia** | Building internal systems that serve global markets
 
-- 🔭 I have a degree in Software Engineering
-- 🌱 I'm a full stack developer
-- 📚 I'm very passionate in learning and trying to develop myself to be better :D
-- 🏎️ I am also super passionate about F1
+A software engineer who loves clean architecture and is an obsessed F1 fan — currently developing enterprise microservices with colleagues in Germany.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### The journey so far
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- Graduated from **Universiti Malaya** — B.Cs. Software Engineering, **First Class Honours with Distinction** (CGPA 3.89)
+- Won **Best Final Year Project** (Software Engineering Dept) + **Dean's List x6** + **University Book Prize**
+- Started at a startup, led front-end on a government portal, got contracted to Mercedes-Benz, then converted to permanent
+- Now building microservices and internal platforms at **Mercedes-Benz Tech** — working hybrid with teams in Ulm & Stuttgart
+- Also doing part-time dev work at **Hillool OU** — multi-client systems, CI/CD pipelines, full infrastructure builds
+- Learning German and working toward relocating to Europe
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+---
+
+### What I work with
+
+**Languages & Frameworks**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Data & Monitoring**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-<br clear="right"/>
+**Testing & Quality**
 
-### ⚙️ &nbsp;GitHub Analytics
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 
+---
 
-<a href="https://github.com/sirhafizho">
-  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sirhafizho&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sirhafizho&layout=compact&theme=vue-dark" />
-</a>
+### Beyond code
 
+- **F1** — obsessed since 2020, still waiting to attend my first GP
+- **Gym & running** — training for a half marathon
+- **Travel** — at least one trip a year; next up: China, then hopefully Germany for good
+- **Movies** — anything with deep world-building (Interstellar, Dune, LOTR, Star Wars)
+
+---
+
+### GitHub Analytics
+
+<p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sirhafizho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sirhafizho&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<sub>Full Stack Developer | Microservices | Kotlin & Spring Boot | React & Next.js | Docker & Kubernetes | AWS</sub>
