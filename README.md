@@ -79,7 +79,7 @@ A software engineer who loves clean architecture and is an obsessed F1 fan — c
 
 ### Beyond code
 
-- **F1** — obsessed since 2020, still waiting to attend my first GP
+- **F1** — obsessed, still waiting to attend my first GP
 - **Gym & running** — training for a half marathon
 - **Travel** — at least one trip a year; next up: China, then hopefully Germany for good
 - **Movies** — anything with deep world-building (Interstellar, Dune, LOTR, Star Wars)
