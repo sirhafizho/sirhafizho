@@ -81,7 +81,7 @@ A software engineer who loves clean architecture and is an obsessed F1 fan — c
 
 - **F1** — obsessed, still waiting to attend my first GP
 - **Gym & running** — training for a half marathon
-- **Travel** — at least one trip a year; next up: China, then hopefully Germany for good
+- **Travel** — love exploring new places whenever I can
 - **Movies** — anything with deep world-building (Interstellar, Dune, LOTR, Star Wars)
 
 ---
