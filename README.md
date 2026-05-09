@@ -15,6 +15,7 @@ A software engineer who loves clean architecture and is an obsessed F1 fan — c
 - Started at a startup, led front-end on a government portal, got contracted to Mercedes-Benz, then converted to permanent
 - Now building microservices and internal platforms at **Mercedes-Benz Tech** — working hybrid with teams in Ulm & Stuttgart
 - Also doing part-time dev work at **Hillool OU** — multi-client systems, CI/CD pipelines, full infrastructure builds
+- Big on **spec-driven development** — using frameworks like BMAD to go from architecture docs to implementation with AI agents
 - Learning German and working toward relocating to Europe
 
 ---
