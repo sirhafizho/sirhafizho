@@ -11,7 +11,7 @@ A software engineer who loves clean architecture and is an obsessed F1 fan — c
 ### The journey so far
 
 - Graduated from **Universiti Malaya** — B.Cs. Software Engineering, **First Class Honours with Distinction**
-- Won **Best Final Year Project** (Software Engineering Dept) + **Dean's List x6** + Best Software Engineer APAC FYP Project
+- Won **Best Final Year Project** (Software Engineering Dept) + **Dean's List x6**
 - Started at a startup, led front-end on a government portal, got to work at Mercedes-Benz-Tech-Malaysia under Mercedes-Benz Tech Innovation
 - Now building microservices and internal platforms at **Mercedes-Benz Tech** — working hybrid with teams in Ulm & Stuttgart
 - Also doing part-time dev work at **Hillool OU** — multi-client systems, CI/CD pipelines, full infrastructure builds
